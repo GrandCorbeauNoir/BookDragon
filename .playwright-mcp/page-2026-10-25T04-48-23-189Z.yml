@@ -1,0 +1,183 @@
+- generic [ref=e3]:
+  - link "Skip to main content" [ref=e4] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=e5]:
+    - link "BookDragon home" [ref=e6] [cursor=pointer]:
+      - /url: /
+      - generic [ref=e7]: BookDragon
+    - navigation "Main" [ref=e8]:
+      - link "Home" [ref=e9] [cursor=pointer]:
+        - /url: /
+      - button "Genres" [ref=e11] [cursor=pointer]
+      - search [ref=e14]:
+        - generic [ref=e15]: Search by book title
+        - searchbox "Search by book title" [ref=e16]
+        - button "Search" [ref=e17] [cursor=pointer]
+    - generic [ref=e21]:
+      - link "Sign Up" [ref=e22] [cursor=pointer]:
+        - /url: /signup
+      - link "Sign In" [ref=e23] [cursor=pointer]:
+        - /url: /signin
+  - main [ref=e24]:
+    - region [ref=e25]:
+      - heading "Welcome to BookDragon" [level=1] [ref=e26]:
+        - generic [ref=e27]: Welcome to
+        - generic [ref=e28]: BookDragon
+      - paragraph [ref=e29]: Unlimited Books. Anytime. Anywhere.
+      - paragraph [ref=e30]: A good book is just a dragon's breath away.
+    - heading "Technology" [level=2] [ref=e31]
+    - paragraph [ref=e195]: Showing 20 of 186 books
+    - list [ref=e196]:
+      - listitem [ref=e197]:
+        - link [ref=e198] [cursor=pointer]:
+          - /url: /books/oaWzAAAAIAAJ
+          - generic [ref=e199]:
+            - heading "An Introduction to On-line Computers" [level=3] [ref=e200]
+            - paragraph [ref=e201]: W. Wayne Black
+            - paragraph [ref=e202]: No description available.
+      - listitem [ref=e203]:
+        - link [ref=e204] [cursor=pointer]:
+          - /url: /books/ICjqr6V9S6UC
+          - generic [ref=e205]:
+            - heading "Computer Fundamentals" [level=3] [ref=e206]
+            - paragraph [ref=e207]: B. Ram
+            - paragraph [ref=e208]: The fourth edition of this widely used book includes several new topics to make the coverage more comprehensive and contemporary. The book presents an exhaustive and up-to-date exposition of CPUs, peripherals, supporting chips and bus standards. The cov
+      - listitem [ref=e209]:
+        - link [ref=e210] [cursor=pointer]:
+          - /url: /books/24KW-5GBvgIC
+          - generic [ref=e211]:
+            - heading "Fumbling the Future" [level=3] [ref=e212]
+            - paragraph [ref=e213]: Douglas K. Smith, Robert C. Alexander
+            - paragraph [ref=e214]: Ask consumers and users what names they associate with the multibillion dollar personal computer market, and they will answer IBM, Apple, Tandy, or Lotus. The more knowledgable of them will add the likes of Microsoft, Ashton-Tate, Compaq, and Borland. But no one will say Xerox. Fifteen years after it invented personal computing, Xerox still means "copy." Fumbling the Future tells how one of America's leading corporations invented the technology for one of the fastest-growing products of recent times, then miscalculated and mishandled the opportunity to fully exploit it. It is a classic story of how innovation can fare within large corporate structures, the real-life odyssey of what can happen to an idea as it travels from inspiration to implementation. More than anything, Fumbling the Future is a tale of human beings whose talents, hopes, fears, habits, and prejudices determine the fate of our largest organizations and of our best ideas. In an era in which technological creativity and economic change are so critical to the competitiveness of the American economy, Fumbling the Future is a parable for our times.
+      - listitem [ref=e215]:
+        - link [ref=e216] [cursor=pointer]:
+          - /url: /books/bjE5EHw35DkC
+          - generic [ref=e217]:
+            - heading "TEXTBOOK OF COMPUTER SCIENCE FOR CLASS XI" [level=3] [ref=e218]
+            - paragraph [ref=e219]: SEEMA BHATNAGAR
+            - paragraph [ref=e220]: This textbook, presented in a clear and friendly writing style, provides students of Class XI with a thorough introduction to the discipline of computer science. It offers accurate and balanced coverage of all the computer science topics as prescribed in the CBSE syllabus Code 083. Assuming no previous knowledge of computer science, this book discusses key computing concepts to provide invaluable insight into how computers work. It prepares students for the world of computing by giving them a solid foundation in programming concepts, operating systems, problem solving methodology, C++ programming language, data representation, and computer hardware. KEY FEATURES • Explains theory in user friendly and easy-to-approach style • Teaches C++ from scratch; knowledge of C is not needed • Provides Programming Examples • Gives Practical Exercise • Provides Answers to Short Questions • Gives Practice Questions at the end of each chapter • Suitable for Self-Study
+      - listitem [ref=e221]:
+        - link [ref=e222] [cursor=pointer]:
+          - /url: /books/otw9AQAAIAAJ
+          - generic [ref=e223]:
+            - 'heading "Computer Literature Bibliography: 1946-1963" [level=3] [ref=e224]'
+            - paragraph [ref=e225]: W. W. Youden
+            - paragraph [ref=e226]: No description available.
+      - listitem [ref=e227]:
+        - link [ref=e228] [cursor=pointer]:
+          - /url: /books/kpGEzgEACAAJ
+          - generic [aria-hidden] [ref=e229]:
+            - generic [ref=e230]: Computers, Technology, and Society
+            - generic [ref=e231]: Unknown author
+          - generic [ref=e232]:
+            - heading "Computers, Technology, and Society" [level=3] [ref=e233]
+            - paragraph [ref=e234]: Unknown author
+            - paragraph [ref=e235]: No description available.
+      - listitem [ref=e236]:
+        - link [ref=e237] [cursor=pointer]:
+          - /url: /books/56TT-cJeP9wC
+          - generic [ref=e238]:
+            - heading "PC Systems, Installation and Maintenance" [level=3] [ref=e239]
+            - paragraph [ref=e240]: R. P. Beales
+            - paragraph [ref=e241]: Written in a straightforward, easy to read style, Rob Beales provides the knowledge and techniques needed to build, troubleshoot, and maintain personal computer systems. Divided into three parts, Part 1 forms an introduction to digital computers, leading the reader through the various parts of a modern PC system, including popular peripherals and networking concepts. Part 2 contains a step-by-step guide on the assembly and configuration of a complete state-of-the-art PC system, including a section on the use of important Windows 98 / ME / 2000 / XP applications and components. Part 3 covers preventative, predictive and corrective maintenance, based in typical current work practice – a major part of the IT practitioner’s work schedule. Case Studies and practical worked examples are included throughout the text, with additional Case Studies, specifically aimed to meet the requirements of e-Quals courses on an accompanying website. Further web resources include key figures from the text available to download in full-colour, with a wealth of extra material covering Binary / Hex and basic logic functions; ASCII tables; Connector types and pinouts; Bus slots; RAM slots and further useful website links. Updated throughout in line with current technologies, the second edition is also designed to cover the latest specifications of BTEC National and City and Guilds e-Quals (400 and 500) courses, and the A+ certification, in addition to meeting the needs of the general PC user.
+      - listitem [ref=e242]:
+        - link [ref=e243] [cursor=pointer]:
+          - /url: /books/Z36DPwAACAAJ
+          - generic [aria-hidden] [ref=e244]:
+            - generic [ref=e245]: Computers
+            - generic [ref=e246]: Larry E. Long
+          - generic [ref=e247]:
+            - heading "Computers" [level=3] [ref=e248]
+            - paragraph [ref=e249]: Larry E. Long, Sara Long, Nancy Long, Henry Rowe
+            - paragraph [ref=e250]: No description available.
+      - listitem [ref=e251]:
+        - link [ref=e252] [cursor=pointer]:
+          - /url: /books/RXARim9cNBIC
+          - generic [ref=e253]:
+            - heading "Computer Organization and Design, Revised Printing" [level=3] [ref=e254]
+            - paragraph [ref=e255]: David A. Patterson, John L. Hennessy
+            - paragraph [ref=e256]: "What's New in the Third Edition, Revised Printing The same great book gets better! This revised printing features all of the original content along with these additional features:• Appendix A (Assemblers, Linkers, and the SPIM Simulator) has been moved from the CD-ROM into the printed book• Corrections and bug fixesThird Edition featuresNew pedagogical features•Understanding Program Performance -Analyzes key performance issues from the programmer's perspective •Check Yourself Questions -Helps students assess their understanding of key points of a section •Computers In the Real World -Illustrates the diversity of applications of computing technology beyond traditional desktop and servers •For More Practice -Provides students with additional problems they can tackle •In More Depth -Presents new information and challenging exercises for the advanced student New reference features •Highlighted glossary terms and definitions appear on the book page, as bold-faced entries in the index, and as a separate and searchable reference on the CD. •A complete index of the material in the book and on the CD appears in the printed index and the CD includes a fully searchable version of the same index. •Historical Perspectives and Further Readings have been updated and expanded to include the history of software R&D. •CD-Library provides materials collected from the web which directly support the text. In addition to thoroughly updating every aspect of the text to reflect the most current computing technology, the third edition •Uses standard 32-bit MIPS 32 as the primary teaching ISA. •Presents the assembler-to-HLL translations in both C and Java. •Highlights the latest developments in architecture in Real Stuff sections: -Intel IA-32 -Power PC 604 -Google's PC cluster -Pentium P4 -SPEC CPU2000 benchmark suite for processors -SPEC Web99 benchmark for web servers -EEMBC benchmark for embedded systems -AMD Opteron memory hierarchy -AMD vs. 1A-64 New support for distinct course goals Many of the adopters who have used our book throughout its two editions are refining their courses with a greater hardware or software focus. We have provided new material to support these course goals: New material to support a Hardware Focus •Using logic design conventions •Designing with hardware description languages •Advanced pipelining •Designing with FPGAs •HDL simulators and tutorials •Xilinx CAD tools New material to support a Software Focus •How compilers work •How to optimize compilers •How to implement object oriented languages •MIPS simulator and tutorial •History sections on programming languages, compilers, operating systems and databases On the CD•NEW: Search function to search for content on both the CD-ROM and the printed text•CD-Bars: Full length sections that are introduced in the book and presented on the CD •CD-Appendixes: Appendices B-D •CD-Library: Materials collected from the web which directly support the text •CD-Exercises: For More Practice provides exercises and solutions for self-study•In More Depth presents new information and challenging exercises for the advanced or curious student •Glossary: Terms that are defined in the text are collected in this searchable reference •Further Reading: References are organized by the chapter they support •Software: HDL simulators, MIPS simulators, and FPGA design tools •Tutorials: SPIM, Verilog, and VHDL •Additional Support: Processor Models, Labs, Homeworks, Index covering the book and CD contents Instructor Support Instructor support provided on textbooks.elsevier.com:•Solutions to all the exercises •Figures from the book in a number of formats •Lecture slides prepared by the authors and other instructors •Lecture notes"
+      - listitem [ref=e257]:
+        - link [ref=e258] [cursor=pointer]:
+          - /url: /books/uUcr0gEACAAJ
+          - generic [ref=e259]:
+            - heading "Teaching My Dad How Computers Work" [level=3] [ref=e260]
+            - paragraph [ref=e261]: Giovanni Campardo, Roberto Gastaldi
+            - paragraph [ref=e262]: How many times a day do we rely on an electronic device, often without even noticing it? From smart washing machines and connected refrigerators to phones, cars with assisted driving, and medical diagnostic systems, the modern world is powered by astonishingly complex electronic machines. Yet at their core, all these systems, whether guiding a spacecraft or preparing a perfect cup of coffee, are built from the same fundamental components. This book offers a clear, accessible journey into the inner workings of computers and electronic systems. It explains how billions of interconnected transistors, each behaving like a simple switch, combine to perform logical operations using only 1s and 0s. Step by step, it reveals how these basic building blocks enable machines to make decisions, execute programs, and carry out the sophisticated tasks we depend on every day. Written with the curiosity of a daughter determined to explain modern technology to her father, born in the last century, this book demystifies the architecture of hardware and the structure of software without assuming prior technical knowledge. Through intuitive examples and engaging storytelling, it shows that behind the apparent magic of digital technology lies an elegant and comprehensible logic. Perfect for curious readers, Teaching My Dad How Computers Work is an invitation to understand the digital world and to discover how simple ideas, multiplied billions of times, shape the intelligent machines around us.
+      - listitem [ref=e263]:
+        - link [ref=e264] [cursor=pointer]:
+          - /url: /books/ohPI1ZHE73UC
+          - generic [ref=e265]:
+            - heading "Computers for Everybody" [level=3] [ref=e266]
+            - paragraph [ref=e267]: Jerry Willis, Merl K. Miller
+            - paragraph [ref=e268]: Concentrates on What Computers Are & What They Do. Discusses How to Select & Purchase Computer Equipment
+      - listitem [ref=e269]:
+        - link [ref=e270] [cursor=pointer]:
+          - /url: /books/8IPxPUI0Qt4C
+          - generic [ref=e271]:
+            - heading "Programming the IBM Personal Computer" [level=3] [ref=e272]
+            - paragraph [ref=e273]: Chao Chien
+            - paragraph [ref=e274]: No description available.
+      - listitem [ref=e275]:
+        - link [ref=e276] [cursor=pointer]:
+          - /url: /books/NNBaAAAAYAAJ
+          - generic [ref=e277]:
+            - heading "Introduction to BASIC Programming" [level=3] [ref=e278]
+            - paragraph [ref=e279]: Steven L. Mandell
+            - paragraph [ref=e280]: No description available.
+      - listitem [ref=e281]:
+        - link [ref=e282] [cursor=pointer]:
+          - /url: /books/wuweBgAAQBAJ
+          - generic [ref=e283]:
+            - heading "Annotated Bibliography of Films in Automation, Data Processing, and Computer Science" [level=3] [ref=e284]
+            - paragraph [ref=e285]: Martin B. SolomanJr., Nora Geraldine Lovan
+            - paragraph [ref=e286]: With the rapid development of computer science and the expanding use of computers in all facets of American life, there has been made available a wide range of instructional and informational films on automation, data processing, and computer science. Here is the first annotated bibliography of these and related films, gathered from industrial, institutional, and other sources. This bibliography annotates 244 films, alphabetically arranged by title, with a detailed subject index. Information is also provided concerning the intended audience, rental-purchase data, ordering procedures, and such specifications as running time and film size.
+      - listitem [ref=e287]:
+        - link [ref=e288] [cursor=pointer]:
+          - /url: /books/MQ2rCAAAQBAJ
+          - generic [ref=e289]:
+            - heading "Visual Computing" [level=3] [ref=e290]
+            - paragraph [ref=e291]: Tosiyasu L. Kunii
+            - paragraph [ref=e292]: This volume presents the proceedings of the 10th International Conference of the Computer Graphics Society, CG International '92, Visual Computing - Integrating Computer Graphics with Computer Vision -, held at Kogakuin University, Tokyo in Japan from June 22-26,1992. Since its foundation in 1983, this conference has continued to attract high quality research articles in all aspects of computer graphics and its applications. Previous conferences in this series were held in Japan (1983-1987), in Switzerland (1988), in the United Kingdom (1989), in Singapore (1990), and in the United States of America (1991). Future CG International conferences are planned in Switzerland (1993), in Australia (1994), and in the United Kingdom (1995). It has been the editor's dream to research the integration of computer graphics with computer vision through data structures. The conference the editor put together in Los Angeles in 1975 involving the UCLA and IEEE Computer Societies had to spell out these three areas explicitly in the conference title, "computer graphics," "pattern recognition" and "data structures," as well as in the title of the proceedings published by IEEE Computer Society Press. In 1985, the editor gave the name "visual computer" to machines having all the three functionalities as seen in the journal under that name from Springer. Finally, the research in integrating visual information processing has now reached reality as seen in this proceedings of CG International '92. Chapters on virtual reality, and on tools and environments provide examples.
+      - listitem [ref=e293]:
+        - link [ref=e294] [cursor=pointer]:
+          - /url: /books/zf1cQgAACAAJ
+          - generic [ref=e295]:
+            - heading "Fluency with Information Technology" [level=3] [ref=e296]
+            - paragraph [ref=e297]: Lawrence Snyder
+            - paragraph [ref=e298]: "Fluency with Information Technology: Skills, Concepts, and Capabilities, Fourth Edition,equips readers who are already familiar with computers, the Internet, and the World Wide Web with a deeper understanding of the broad capabilities of technology. Through a project-oriented learning approach that uses examples and realistic problem-solving scenarios, Larry Snyder teaches readers to navigate information technology independently and become effective users of today’s resources, forming a foundation of skills they can adapt to their personal and career goals as future technologies emerge."
+      - listitem [ref=e299]:
+        - link [ref=e300] [cursor=pointer]:
+          - /url: /books/lNR9PgAACAAJ
+          - generic [aria-hidden] [ref=e301]:
+            - generic [ref=e302]: Computer Concepts and Applications
+            - generic [ref=e303]: Donald H. Sanders
+          - generic [ref=e304]:
+            - heading "Computer Concepts and Applications" [level=3] [ref=e305]
+            - paragraph [ref=e306]: Donald H. Sanders
+            - paragraph [ref=e307]: No description available.
+      - listitem [ref=e308]:
+        - link [ref=e309] [cursor=pointer]:
+          - /url: /books/7q_PAAAAMAAJ
+          - generic [ref=e310]:
+            - heading "Electronic Digital Computers" [level=3] [ref=e311]
+            - paragraph [ref=e312]: Franz L. Alt
+            - paragraph [ref=e313]: No description available.
+      - listitem [ref=e314]:
+        - link [ref=e315] [cursor=pointer]:
+          - /url: /books/d3cfAQAAIAAJ
+          - generic [ref=e316]:
+            - heading "Computers, a Visual Encyclopedia" [level=3] [ref=e317]
+            - paragraph [ref=e318]: Sherry Kinkoph
+            - paragraph [ref=e319]: For the user who wants more than just a definition, this book combines text and art to explain the inner workings of computers and software. Approximately 1,000 terms and hundreds of illustrations help educate the reader. It is a highly accessible encyclopedia, which the beginning or intermediate user can always use to retrieve information instantly.
+      - listitem [ref=e320]:
+        - link [ref=e321] [cursor=pointer]:
+          - /url: /books/eTUNAgAACAAJ
+          - generic [aria-hidden] [ref=e322]:
+            - generic [ref=e323]: Optical Computers
+            - generic [ref=e324]: Richard K. Miller
+          - generic [ref=e325]:
+            - heading "Optical Computers" [level=3] [ref=e326]
+            - paragraph [ref=e327]: Richard K. Miller
+            - paragraph [ref=e328]: No description available.
+    - button "Load More" [ref=e330] [cursor=pointer]

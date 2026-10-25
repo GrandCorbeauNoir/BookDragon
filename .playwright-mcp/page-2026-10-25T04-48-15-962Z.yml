@@ -1,0 +1,51 @@
+- generic [ref=e3]:
+  - link "Skip to main content" [ref=e4] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=e5]:
+    - link "BookDragon home" [ref=e6] [cursor=pointer]:
+      - /url: /
+      - generic [ref=e7]: BookDragon
+    - navigation "Main" [ref=e8]:
+      - link "Home" [ref=e9] [cursor=pointer]:
+        - /url: /
+      - button "Genres" [ref=e11] [cursor=pointer]
+      - search [ref=e14]:
+        - generic [ref=e15]: Search by book title
+        - searchbox "Search by book title" [ref=e16]
+        - button "Search" [ref=e17] [cursor=pointer]
+    - generic [ref=e21]:
+      - link "Sign Up" [ref=e22] [cursor=pointer]:
+        - /url: /signup
+      - link "Sign In" [ref=e23] [cursor=pointer]:
+        - /url: /signin
+  - main [ref=e24]:
+    - region [ref=e25]:
+      - heading "Welcome to BookDragon" [level=1] [ref=e26]:
+        - generic [ref=e27]: Welcome to
+        - generic [ref=e28]: BookDragon
+      - paragraph [ref=e29]: Unlimited Books. Anytime. Anywhere.
+      - paragraph [ref=e30]: A good book is just a dragon's breath away.
+    - heading "Technology" [level=2] [ref=e31]
+    - status "Loading books" [ref=e32]:
+      - list [aria-hidden] [ref=e33]:
+        - listitem [ref=e34]
+        - listitem [ref=e42]
+        - listitem [ref=e50]
+        - listitem [ref=e58]
+        - listitem [ref=e66]
+        - listitem [ref=e74]
+        - listitem [ref=e82]
+        - listitem [ref=e90]
+        - listitem [ref=e98]
+        - listitem [ref=e106]
+        - listitem [ref=e114]
+        - listitem [ref=e122]
+        - listitem [ref=e130]
+        - listitem [ref=e138]
+        - listitem [ref=e146]
+        - listitem [ref=e154]
+        - listitem [ref=e162]
+        - listitem [ref=e170]
+        - listitem [ref=e178]
+        - listitem [ref=e186]
+      - generic [ref=e194]: Loading books…
